@@ -1,0 +1,94 @@
+absl-py @ file:///D:/environment/4.tensorflow/package/absl_py-0.10.0-py3-none-any.whl
+albumentations @ file:///D:/environment/5.pytorch/yolov5_offline_install/albumentations-1.0.3-py3-none-any.whl
+astunparse @ file:///D:/environment/4.tensorflow/package/astunparse-1.6.3-py2.py3-none-any.whl
+backcall @ file:///C:/Users/WiddyChen/Desktop/backcall-0.2.0-py2.py3-none-any.whl
+cachetools @ file:///D:/environment/4.tensorflow/package/cachetools-4.2.1-py3-none-any.whl
+certifi @ file:///D:/environment/4.tensorflow/package/certifi-2020.12.5-py2.py3-none-any.whl
+chardet @ file:///D:/environment/4.tensorflow/package/chardet-4.0.0-py2.py3-none-any.whl
+cleanlab @ file:///D:/environment/5.pytorch/other/cleanlab-1.0-py2.py3-none-any.whl
+colorama @ file:///C:/Users/WiddyChen/Desktop/colorama-0.4.4-py2.py3-none-any.whl
+cycler @ file:///D:/environment/4.tensorflow/package/cycler-0.10.0-py2.py3-none-any.whl
+Cython @ file:///C:/Users/WiddyChen/Desktop/Cython-0.29.23-cp38-cp38-win_amd64.whl
+decorator @ file:///C:/Users/WiddyChen/Desktop/decorator-4.4.2.tar.gz
+efficientnet-pytorch @ file:///D:/environment/5.pytorch/other/efficientnet_pytorch-0.7.1.tar.gz
+flatbuffers @ file:///D:/environment/4.tensorflow/package/flatbuffers-1.12-py2.py3-none-any.whl
+gast @ file:///D:/environment/4.tensorflow/package/gast-0.4.0-py3-none-any.whl
+google-auth @ file:///D:/environment/4.tensorflow/package/google_auth-1.27.1-py2.py3-none-any.whl
+google-auth-oauthlib @ file:///D:/environment/4.tensorflow/package/google_auth_oauthlib-0.4.2-py2.py3-none-any.whl
+google-pasta @ file:///D:/environment/4.tensorflow/package/google_pasta-0.2.0-py3-none-any.whl
+grpcio @ file:///D:/environment/4.tensorflow/package/grpcio-1.34.0-cp38-cp38-win_amd64.whl
+h5py @ file:///D:/environment/4.tensorflow/package/h5py-3.1.0-cp38-cp38-win_amd64.whl
+idna @ file:///D:/environment/4.tensorflow/package/idna-2.5-py2.py3-none-any.whl
+imageio @ file:///C:/Users/WiddyChen/Desktop/imageio-2.9.0-py3-none-any.whl
+imgaug @ file:///C:/Users/WiddyChen/Desktop/imgaug-0.4.0-py2.py3-none-any.whl
+ipython @ file:///C:/Users/WiddyChen/Desktop/ipython-7.24.1-py3-none-any.whl
+ipython-genutils @ file:///C:/Users/WiddyChen/Desktop/ipython_genutils-0.2.0-py2.py3-none-any.whl
+jedi @ file:///C:/Users/WiddyChen/Desktop/jedi-0.18.0-py2.py3-none-any.whl
+joblib @ file:///D:/environment/5.pytorch/other/joblib-1.0.1-py3-none-any.whl
+Keras @ file:///D:/environment/4.tensorflow/package/Keras-2.4.3-py2.py3-none-any.whl
+Keras-Preprocessing @ file:///D:/environment/4.tensorflow/package/Keras_Preprocessing-1.1.2-py2.py3-none-any.whl
+kiwisolver @ file:///D:/environment/4.tensorflow/package/kiwisolver-1.3.1-cp38-cp38-win_amd64.whl
+Markdown==2.6.8
+matplotlib @ file:///D:/environment/4.tensorflow/package/matplotlib-3.3.4-cp38-cp38-win_amd64.whl
+matplotlib-inline @ file:///C:/Users/WiddyChen/Desktop/matplotlib_inline-0.1.2-py3-none-any.whl
+networkx @ file:///C:/Users/WiddyChen/Desktop/networkx-2.5.1-py3-none-any.whl
+numpy @ file:///D:/environment/4.tensorflow/package/numpy-1.19.2-cp38-cp38-win_amd64.whl
+oauthlib @ file:///D:/environment/4.tensorflow/package/oauthlib-3.1.0-py2.py3-none-any.whl
+onnx @ file:///D:/environment/5.pytorch/yolov5_offline_install/onnx-1.9.0-cp38-cp38-win_amd64.whl
+onnxruntime @ file:///D:/environment/5.pytorch/yolov5_offline_install/onnxruntime-1.9.0-cp38-cp38-win_amd64.whl
+opencv-python @ file:///D:/environment/4.tensorflow/package/opencv_python-4.5.1.48-cp38-cp38-win_amd64.whl
+opencv-python-headless @ file:///D:/environment/5.pytorch/yolov5_offline_install/opencv_python_headless-4.5.4.60-cp38-cp38-win_amd64.whl
+opt-einsum @ file:///D:/environment/4.tensorflow/package/opt_einsum-3.3.0-py3-none-any.whl
+packaging @ file:///D:/environment/4.tensorflow/package/packaging-20.9-py2.py3-none-any.whl
+pandas==1.2.4
+parso @ file:///C:/Users/WiddyChen/Desktop/parso-0.8.2-py2.py3-none-any.whl
+pathlib2 @ file:///D:/environment/pathlib2-2.3.5-py2.py3-none-any.whl
+pickleshare @ file:///C:/Users/WiddyChen/Desktop/pickleshare-0.7.5-py2.py3-none-any.whl
+Pillow @ file:///D:/environment/4.tensorflow/package/Pillow-8.1.2-cp38-cp38-win_amd64.whl
+prompt-toolkit @ file:///C:/Users/WiddyChen/Desktop/prompt_toolkit-3.0.18-py3-none-any.whl
+protobuf @ file:///D:/environment/4.tensorflow/package/protobuf-3.14.0-py2.py3-none-any.whl
+pyasn1 @ file:///D:/environment/4.tensorflow/package/pyasn1-0.4.8-py2.py3-none-any.whl
+pyasn1-modules @ file:///D:/environment/4.tensorflow/package/pyasn1_modules-0.2.8-py2.py3-none-any.whl
+pycocotools @ file:///C:/Users/WiddyChen/Desktop/pycocotools-2.0.2.tar.gz
+pycparser @ file:///D:/environment/4.tensorflow/package/pycparser-2.20-py2.py3-none-any.whl
+Pygments @ file:///C:/Users/WiddyChen/Desktop/Pygments-2.9.0-py3-none-any.whl
+pyinstaller==4.1
+pyparsing @ file:///D:/environment/4.tensorflow/package/pyparsing-2.4.7-py2.py3-none-any.whl
+PyQt5 @ file:///D:/environment/4.tensorflow/package/PyQt5-5.15.4-cp36.cp37.cp38.cp39-none-win_amd64.whl
+PyQt5-Qt5 @ file:///D:/environment/4.tensorflow/package/PyQt5_Qt5-5.15.2-py3-none-win_amd64.whl
+PyQt5-sip @ file:///D:/environment/4.tensorflow/package/PyQt5_sip-12.8.1-cp38-cp38-win_amd64.whl
+python-dateutil @ file:///D:/environment/4.tensorflow/package/python_dateutil-2.8.1-py2.py3-none-any.whl
+python-stopwatch @ file:///D:/environment/7.py_offline_install/python_stopwatch-1.0.4-py3-none-any.whl
+pythonnet @ file:///D:/environment/4.tensorflow/package/pythonnet-2.5.2-cp38-cp38-win_amd64.whl
+pytz==2021.1
+PyWavelets @ file:///C:/Users/WiddyChen/Desktop/PyWavelets-1.1.1-cp38-cp38-win_amd64.whl
+PyYAML @ file:///D:/environment/4.tensorflow/package/PyYAML-5.4.1-cp38-cp38-win_amd64.whl
+requests @ file:///D:/environment/4.tensorflow/package/requests-2.25.1-py2.py3-none-any.whl
+requests-oauthlib @ file:///D:/environment/4.tensorflow/package/requests_oauthlib-0.7.0-py2.py3-none-any.whl
+rsa @ file:///D:/environment/4.tensorflow/package/rsa-4.7-py3-none-any.whl
+scikit-image @ file:///C:/Users/WiddyChen/Desktop/scikit_image-0.16.2-cp38-cp38-win_amd64.whl
+scikit-learn @ file:///D:/environment/5.pytorch/other/scikit_learn-0.24.2-cp38-cp38-win_amd64.whl
+scipy @ file:///D:/environment/4.tensorflow/package/scipy-1.6.1-cp38-cp38-win_amd64.whl
+seaborn==0.11.1
+Shapely @ file:///C:/Users/WiddyChen/Desktop/Shapely-1.7.1-cp38-cp38-win_amd64.whl
+six @ file:///D:/environment/4.tensorflow/package/six-1.15.0-py2.py3-none-any.whl
+stopwatch.py @ file:///D:/environment/7.py_offline_install/stopwatch.py-1.0.1.tar.gz
+tb-nightly @ file:///D:/environment/4.tensorflow/package/tb_nightly-2.5.0a20210125-py3-none-any.whl
+tensorboard @ file:///D:/environment/5.pytorch/yolov5_offline_install/tensorboard-2.5.0-py3-none-any.whl
+tensorboard-data-server @ file:///D:/environment/5.pytorch/yolov5_offline_install/tensorboard_data_server-0.6.0-py3-none-any.whl
+tensorboard-plugin-wit @ file:///D:/environment/4.tensorflow/package/tensorboard_plugin_wit-1.8.0-py3-none-any.whl
+termcolor==1.1.0
+tf-estimator-nightly @ file:///D:/environment/4.tensorflow/package/tf_estimator_nightly-2.5.0.dev2021031101-py2.py3-none-any.whl
+tf-nightly-gpu @ file:///D:/environment/4.tensorflow/package/tf_nightly_gpu-2.5.0.dev20210125-cp38-cp38-win_amd64.whl
+thop==0.0.31.post2005241907
+threadpoolctl @ file:///D:/environment/5.pytorch/other/threadpoolctl-2.1.0-py3-none-any.whl
+tifffile @ file:///C:/Users/WiddyChen/Desktop/tifffile-2021.4.8-py3-none-any.whl
+torch @ file:///C:/Users/WiddyChen/Desktop/torch-1.8.1%2Bcu111-cp38-cp38-win_amd64.whl
+torchvision @ file:///C:/Users/WiddyChen/Desktop/torchvision-0.9.1%2Bcu111-cp38-cp38-win_amd64.whl
+tqdm @ file:///D:/environment/5.pytorch/yolov5_offline_install/tqdm-4.60.0-py2.py3-none-any.whl
+traitlets @ file:///C:/Users/WiddyChen/Desktop/traitlets-5.0.5-py3-none-any.whl
+typing-extensions @ file:///D:/environment/4.tensorflow/package/typing_extensions-3.7.4.3-py3-none-any.whl
+urllib3 @ file:///D:/environment/4.tensorflow/package/urllib3-1.26.3-py2.py3-none-any.whl
+wcwidth @ file:///C:/Users/WiddyChen/Desktop/wcwidth-0.2.5-py2.py3-none-any.whl
+Werkzeug @ file:///D:/environment/4.tensorflow/package/Werkzeug-1.0.1-py2.py3-none-any.whl
+wrapt==1.12.1
